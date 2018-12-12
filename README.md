@@ -15,7 +15,7 @@ If you want to join a W3Develops cohort, you can learn more about us [here](http
 If you haven't heard of Freecodecamp, I don't believe you (no just joking, you can find them [here](https://www.freecodecamp.com)). <br> 
 
 Enjoy,
-[@w3Develops](https://medium.com/@tropicalchancer) 
+[@Jonathan](https://medium.com/@jondevops) 
 
 
 # Remote Team Dev projects currently in progress in W3Develops: 
@@ -28,7 +28,7 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/Dev-gaido%20testing.png?alt=media&token=aee107b7-4162-488f-b628-9694d8af679f "Optional title")
+![Alt text](https://imgur.com/mu6dgm6 "Optional title")
 
 
 
@@ -42,7 +42,7 @@ Enjoy,
 
 **Project Leads**: @jondevops, thanks to the many people who helped with different aspects of this project! 
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fchinguwebsite.png?alt=media&token=ffde9cee-5275-47d6-add5-379fb0de36c4 "Optional title")
+![Alt text](https://imgur.com/LMfiMYX "Optional title")
 
 
 
@@ -59,14 +59,5 @@ Enjoy,
  
  TO add: 
  
- vampiire + aos todo bot: http://super-todo-bot.herokuapp.com/
-
-![Alt text]( "Optional title")
-
-![Alt text]( "Optional title")
-
-![Alt text]( "Optional title")
-
-![Alt text]( "Optional title")
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/featured%20projects.png?alt=media&token=5891590e-64b3-4d9b-a600-3a8c24240e0b "Optional title")
+![Alt text](https://imgur.com/RUxbr2g "Optional title")
 
